@@ -9,3 +9,16 @@
 5. Python source code
 6. Data files
 7. Sample work
+
+## Python source code
+### Part 1
+1. Python intro (link)
+2. DNA alignment (link)
+
+### Part 2
+3. Input/output examples (link)
+4. CRISPR gRNA design (link)
+
+### Part 3
+5. More
+6. More
