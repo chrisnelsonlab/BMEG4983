@@ -16,7 +16,7 @@ This short course is designed to build confidence in using python for genome eng
 ## Python source code
 ### Part 1 - Python introduction
 1. Python introduction examples (link)
-2. Recursion examples (link)
+2. Recursion examples (Queen problem, Triangle game)
 3. DNA alignment (link)
 4. Problem set 1
 
