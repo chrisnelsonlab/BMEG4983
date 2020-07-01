@@ -1,5 +1,8 @@
 # BMEG4983
 ### Updated Summer 2020
+## Objective
+This short course is designed to build confidence in using python for genome engineering and synthetic biology problems. Short video lectures are supplemented by code examples and challenge problems. 
+
 
 ## Course Contents
 1. Syllabus (link)
@@ -11,14 +14,22 @@
 7. Sample work
 
 ## Python source code
-### Part 1
-1. Python intro (link)
-2. DNA alignment (link)
+### Part 1 - Python introduction
+1. Python introduction examples (link)
+2. Recursion examples (link)
+3. DNA alignment (link)
+4. Problem set 1
 
-### Part 2
-3. Input/output examples (link)
-4. CRISPR gRNA design (link)
+### Part 2 - Input/output
+1. Input/output examples (link)
+2. CRISPR gRNA design (link)
+3. TBD
+4. Problem set 2
 
-### Part 3
-5. More
-6. More
+### Part 3 - Basic data structures
+5. TBD
+6. TBD
+
+### Part 4 - Plotting
+7. TBD
+8. TBD
