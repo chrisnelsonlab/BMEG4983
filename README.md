@@ -5,7 +5,7 @@ This short course is designed to build confidence in using python for genome eng
 
 
 ## Course Contents
-1. Syllabus (Graphical_Syllabus.pdf)
+1. Syllabus (https://github.com/chrisnelsonlab/BMEG4983/blob/master/Graphical_Syllabus.pdf)
 2. Lectures (Link)
 3. Google colab notebooks (W1...)
 4. Papers (insert links)
